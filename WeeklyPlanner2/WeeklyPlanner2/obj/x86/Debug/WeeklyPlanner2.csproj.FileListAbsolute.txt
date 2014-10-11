@@ -1,0 +1,29 @@
+C:\Users\henri.ROM-TECH\AppData\Local\Temporary Projects\WeeklyPlanner2\bin\Debug\WeeklyPlanner2.exe
+C:\Users\henri.ROM-TECH\AppData\Local\Temporary Projects\WeeklyPlanner2\bin\Debug\WeeklyPlanner2.pdb
+C:\Users\henri.ROM-TECH\AppData\Local\Temporary Projects\WeeklyPlanner2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\henri.ROM-TECH\AppData\Local\Temporary Projects\WeeklyPlanner2\obj\x86\Debug\WeeklyPlanner2.Properties.Resources.resources
+C:\Users\henri.ROM-TECH\AppData\Local\Temporary Projects\WeeklyPlanner2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\henri.ROM-TECH\AppData\Local\Temporary Projects\WeeklyPlanner2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\henri.ROM-TECH\AppData\Local\Temporary Projects\WeeklyPlanner2\obj\x86\Debug\WeeklyPlanner2.exe
+C:\Users\henri.ROM-TECH\AppData\Local\Temporary Projects\WeeklyPlanner2\obj\x86\Debug\WeeklyPlanner2.pdb
+C:\Users\henri.ROM-TECH\AppData\Local\Temporary Projects\WeeklyPlanner2\bin\Debug\itextsharp.dll
+C:\Users\henri.ROM-TECH\AppData\Local\Temporary Projects\WeeklyPlanner2\obj\x86\Debug\WeeklyPlanner2.Form1.resources
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\WeeklyPlanner2\WeeklyPlanner2\obj\x86\Debug\WeeklyPlanner2.exe
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\WeeklyPlanner2\WeeklyPlanner2\obj\x86\Debug\WeeklyPlanner2.pdb
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\WeeklyPlanner2\WeeklyPlanner2\bin\Debug\WeeklyPlanner2.exe
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\WeeklyPlanner2\WeeklyPlanner2\bin\Debug\WeeklyPlanner2.pdb
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\WeeklyPlanner2\WeeklyPlanner2\bin\Debug\itextsharp.dll
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\WeeklyPlanner2\WeeklyPlanner2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\WeeklyPlanner2\WeeklyPlanner2\obj\x86\Debug\WeeklyPlanner2.Form1.resources
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\WeeklyPlanner2\WeeklyPlanner2\obj\x86\Debug\WeeklyPlanner2.Properties.Resources.resources
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\WeeklyPlanner2\WeeklyPlanner2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\WeeklyPlanner2\WeeklyPlanner2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Henri\My Documents\Visual Studio 2010\Projects\B - Henri\WeeklyPlanner2\WeeklyPlanner2\obj\x86\Debug\WeeklyPlanner2.exe
+C:\Henri\My Documents\Visual Studio 2010\Projects\B - Henri\WeeklyPlanner2\WeeklyPlanner2\obj\x86\Debug\WeeklyPlanner2.pdb
+C:\Henri\My Documents\Visual Studio 2010\Projects\B - Henri\WeeklyPlanner2\WeeklyPlanner2\bin\Debug\WeeklyPlanner2.exe
+C:\Henri\My Documents\Visual Studio 2010\Projects\B - Henri\WeeklyPlanner2\WeeklyPlanner2\bin\Debug\WeeklyPlanner2.pdb
+C:\Henri\My Documents\Visual Studio 2010\Projects\B - Henri\WeeklyPlanner2\WeeklyPlanner2\bin\Debug\itextsharp.dll
+C:\Henri\My Documents\Visual Studio 2010\Projects\B - Henri\WeeklyPlanner2\WeeklyPlanner2\obj\x86\Debug\WeeklyPlanner2.csprojResolveAssemblyReference.cache
+C:\Henri\My Documents\Visual Studio 2010\Projects\B - Henri\WeeklyPlanner2\WeeklyPlanner2\obj\x86\Debug\WeeklyPlanner2.Form1.resources
+C:\Henri\My Documents\Visual Studio 2010\Projects\B - Henri\WeeklyPlanner2\WeeklyPlanner2\obj\x86\Debug\WeeklyPlanner2.Properties.Resources.resources
+C:\Henri\My Documents\Visual Studio 2010\Projects\B - Henri\WeeklyPlanner2\WeeklyPlanner2\obj\x86\Debug\WeeklyPlanner2.csproj.GenerateResource.Cache
